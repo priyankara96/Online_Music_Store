@@ -47,7 +47,8 @@ Web Application | 2nd year 1st semester Project | SLIIT
   - Java
   - JavaScript
   - Bootstrap
-  - HTML, CSS
+  - HTML
+  - CSS
   - PHP
   
     
