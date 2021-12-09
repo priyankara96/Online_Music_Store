@@ -16,7 +16,7 @@ Web Application | 2nd year 1st semester Project | SLIIT
   </p>
   
   <h2>About this project</h2>
-  The project is designed so that customers can easily buy musical instrument from a music store.
+  The project is designed so that customers can easily buy musical instruments from a music store.
   
   <h2>Tools & Technologies</h2>
   
