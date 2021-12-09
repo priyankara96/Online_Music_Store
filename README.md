@@ -39,7 +39,7 @@ Web Application | 2nd year 1st semester Project | SLIIT
      
   - Apache Tomcat server
    
-     <img src="https://career.guru99.com/wp-content/uploads/2014/12/home-oss-logos-tomcat.png"  width="150" height="85"/>
+     <img src="https://career.guru99.com/wp-content/uploads/2014/12/home-oss-logos-tomcat.png"  width="200" height="85"/>
   
   
   <h3>Technologies :</h3>
