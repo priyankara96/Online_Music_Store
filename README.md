@@ -11,7 +11,7 @@ Web Application | 2nd year 1st semester Project | SLIIT
 <p>
 
   
-  This is a project done for the Object Oriented Programming module of BSc (Hons) Degree in Information Technology in Sri Lanka Institute of Information Technology.
+  This is a project done for the Object Oriented Programming module of BSc(Hons) Degree in Information Technology in Sri Lanka Institute of Information Technology.
   
   </p>
   
