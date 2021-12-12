@@ -18,6 +18,7 @@ Web Application | 2nd year 1st semester Project | SLIIT
   <h2>About this project</h2>
   The project is designed so that customers can easily buy musical instruments from a music store.
   
+  
 https://user-images.githubusercontent.com/88779731/145698432-4b266cc8-6317-44c5-bcf7-7d5154b445b0.mp4
 
   <h2>Tools & Technologies</h2>
