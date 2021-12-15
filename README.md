@@ -48,12 +48,10 @@ https://user-images.githubusercontent.com/88779731/145698432-4b266cc8-6317-44c5-
   
   <h3>Technologies :</h3>
   
-  - OOP
-  - JavaScript
-  - Bootstrap
+  - Java Servlet
   - HTML
   - CSS
-  - PHP
+  - Bootstrap
   
     
 
